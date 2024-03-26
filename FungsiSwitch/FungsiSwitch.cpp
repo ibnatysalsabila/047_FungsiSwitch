@@ -14,8 +14,5 @@ void input()
     cin >> bilB;
 }
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+
 
